@@ -1,0 +1,10 @@
+openai
+pinecone
+python-dotenv
+langchain_community
+langchain_openai
+langchain-pinecone
+langchain_google_genai
+langgraph
+gradio
+langchain_experimental
